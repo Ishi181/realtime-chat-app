@@ -238,7 +238,8 @@ Message
 
 ## Login Screen
 
-> Insert Screenshot Here
+<img width="907" height="861" alt="image" src="https://github.com/user-attachments/assets/dc515961-a6eb-419e-9971-5d3c11f752a4" />
+
 
 <br><br><br>
 
@@ -246,7 +247,8 @@ Message
 
 ## Chat Interface
 
-> Insert Screenshot Here
+<img width="682" height="855" alt="image" src="https://github.com/user-attachments/assets/78553965-b351-4664-aa80-caa43ce1ed7b" />
+
 
 <br><br><br>
 
@@ -254,51 +256,14 @@ Message
 
 ## Two Users Chatting
 
-> Insert Screenshot Here
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f37c62c0-a5f5-4dfe-b4df-67930cf8cc84" />
+
 
 <br><br><br>
 
 ---
 
-## Typing Indicator
 
-> Insert Screenshot Here
-
-<br><br><br>
-
----
-
-## Online Users
-
-> Insert Screenshot Here
-
-<br><br><br>
-
----
-
-## MongoDB Collection
-
-> Insert Screenshot Here
-
-<br><br><br>
-
----
-
-## Backend Running
-
-> Insert Screenshot Here
-
-<br><br><br>
-
----
-
-## Frontend Running
-
-> Insert Screenshot Here
-
-<br><br><br>
-
----
 
 # 🎥 Demo Video
 
