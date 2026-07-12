@@ -270,7 +270,7 @@ Message
 Google Drive Link:
 
 ```
-Paste Your Google Drive Link Here
+https://drive.google.com/file/d/10Beeihm8P1qJ8TXmc-mqmljdNuqe_74U/view?usp=drive_link
 ```
 
 ---
