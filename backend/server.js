@@ -8,6 +8,7 @@ const { Server } = require("socket.io");
 const connectDB = require("./config/db");
 const socketHandler = require("./socket/socket");
 const messageRoutes = require("./routes/messageRoutes");
+console.log("Message Routes Loaded:", typeof messageRoutes);
 
 const app = express();
 
@@ -66,7 +67,7 @@ app.get("/debug", (req, res) => {
     ],
   });
 });
-
+console.log("Registering /api/messages route");
 // Message Routes
 app.use("/api/messages", messageRoutes);
 
