@@ -278,7 +278,7 @@ Paste Your Google Drive Link Here
 # 🌐 GitHub Repository
 
 ```
-Paste Your GitHub Repository Link Here
+https://github.com/Ishi181/realtime-chat-app
 ```
 
 ---
