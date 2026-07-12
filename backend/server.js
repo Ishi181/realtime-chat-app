@@ -33,6 +33,14 @@ app.set("io", io);
 
 socketHandler(io);
 
+app.get("/", (req, res) => {
+  res.send("Backend is running!");
+});
+
+app.get("/api", (req, res) => {
+  res.json({ message: "API is working!" });
+});
+
 app.use("/api/messages", messageRoutes);
 
 const PORT = process.env.PORT || 5000;
